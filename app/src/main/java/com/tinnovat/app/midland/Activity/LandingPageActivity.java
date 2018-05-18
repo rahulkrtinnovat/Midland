@@ -1,4 +1,4 @@
-package com.tinnovat.app.midland;
+package com.tinnovat.app.midland.Activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,6 +12,14 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.RelativeLayout;
+
+import com.tinnovat.app.midland.Activity.ApprovalsActivity;
+import com.tinnovat.app.midland.Activity.PaymentActivity;
+import com.tinnovat.app.midland.Activity.RequestActivity;
+import com.tinnovat.app.midland.Activity.StatusPageActivity;
+import com.tinnovat.app.midland.Activity.TaskActivity;
+import com.tinnovat.app.midland.Activity.WorkStatusActivity;
+import com.tinnovat.app.midland.R;
 
 public class LandingPageActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {

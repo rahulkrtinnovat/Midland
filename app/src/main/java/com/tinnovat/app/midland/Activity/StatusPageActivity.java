@@ -1,4 +1,4 @@
-package com.tinnovat.app.midland;
+package com.tinnovat.app.midland.Activity;
 
 import android.content.Intent;
 import android.support.v4.app.NavUtils;
@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.LinearLayout;
+
+import com.tinnovat.app.midland.R;
 
 public class StatusPageActivity extends AppCompatActivity {
 
